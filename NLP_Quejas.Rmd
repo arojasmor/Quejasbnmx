@@ -24,7 +24,7 @@ En el presente proyecto se analizarán algunos comentarios hechos a través de l
 
 Este análisis es de minería de texto, por lo que, la mayoría del trabajo mostrará técnicas estadísticas descriptivas y exploratorias.
 
-Los datos se pueden extraer directamente desde twitter, sin embargo, por comodidad y para seguir el presete trabajo, también, se encuentran en mi repositorio de [github](https://github.com/arojasmor/FugaClientes) junto con el código de esta publicación.
+Los datos se pueden extraer directamente desde twitter, sin embargo, por comodidad y para seguir el presete trabajo, también, se encuentran en mi repositorio de [github](https://github.com/arojasmor/Quejasbnmx) junto con el código de esta publicación.
 </div>
 
 <br>
