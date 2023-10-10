@@ -18,3 +18,5 @@ El propósito es identificar de qué hablaron sus clientes y tratar de clasifica
 * premonición
 
 Este análisis es de **minería de texto**, por lo que, la mayoría del trabajo mostrará técnicas estadísticas descriptivas y exploratorias.
+
+Para ver el código abrir el archivo Rmd y en una página web pulsar [aquí](https://rpubs.com/arojasmor17/tweetsbnmx).
